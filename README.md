@@ -69,8 +69,6 @@ python 10_web_dashboard.py
 Open the Web Dashboard:
 Open your browser and navigate to:
 
-Plaintext
-http://127.0.0.1:5000
 License
 This project is open-source and available under the MIT License.
 
